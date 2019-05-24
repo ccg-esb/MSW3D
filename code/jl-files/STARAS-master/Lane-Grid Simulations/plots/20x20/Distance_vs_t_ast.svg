@@ -1,0 +1,1359 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:gadfly="http://www.gadflyjl.org/ns"
+     version="1.2"
+     width="150mm" height="150mm" viewBox="0 0 150 150"
+     stroke="none"
+     fill="#000000"
+     stroke-width="0.3"
+     font-size="3.88"
+>
+<g stroke="#000000" stroke-opacity="0.000" fill="#FFFFFF" id="img-02804c27-1">
+  <rect x="0" y="0" width="150" height="150"/>
+</g>
+<g class="plotroot xscalable yscalable" id="img-02804c27-2">
+  <g font-size="4" font-family="Helvetica" fill="#000000" stroke="#000000" stroke-opacity="0.000" id="img-02804c27-3">
+    <text x="79.82" y="138.47" text-anchor="middle" dy="0.6em">Time for [ANT] >= [ANT]*</text>
+  </g>
+  <g class="guide xlabels" font-size="4" font-family="Helvetica" fill="#6C606B" id="img-02804c27-4">
+    <text x="16.64" y="131.65" text-anchor="middle" dy="0.6em">0</text>
+    <text x="27.93" y="131.65" text-anchor="middle" dy="0.6em">2</text>
+    <text x="39.21" y="131.65" text-anchor="middle" dy="0.6em">4</text>
+    <text x="50.49" y="131.65" text-anchor="middle" dy="0.6em">6</text>
+    <text x="61.77" y="131.65" text-anchor="middle" dy="0.6em">8</text>
+    <text x="73.05" y="131.65" text-anchor="middle" dy="0.6em">10</text>
+    <text x="84.33" y="131.65" text-anchor="middle" dy="0.6em">12</text>
+    <text x="95.62" y="131.65" text-anchor="middle" dy="0.6em">14</text>
+    <text x="106.9" y="131.65" text-anchor="middle" dy="0.6em">16</text>
+    <text x="118.18" y="131.65" text-anchor="middle" dy="0.6em">18</text>
+    <text x="129.46" y="131.65" text-anchor="middle" dy="0.6em">20</text>
+    <text x="140.74" y="131.65" text-anchor="middle" dy="0.6em">22</text>
+  </g>
+<g clip-path="url(#img-02804c27-5)">
+  <g class="guide yfixed" stroke-width="0.3" stroke="#00BFFF" id="img-02804c27-6">
+    <path fill="none" d="M20.03,129.05 L 20.03 130.25"/>
+    <path fill="none" d="M18.9,129.05 L 18.9 130.25"/>
+    <path fill="none" d="M17.77,129.05 L 17.77 130.25"/>
+    <path fill="none" d="M17.77,129.05 L 17.77 130.25"/>
+    <path fill="none" d="M17.77,129.05 L 17.77 130.25"/>
+    <path fill="none" d="M17.77,129.05 L 17.77 130.25"/>
+    <path fill="none" d="M17.77,129.05 L 17.77 130.25"/>
+    <path fill="none" d="M17.77,129.05 L 17.77 130.25"/>
+    <path fill="none" d="M17.77,129.05 L 17.77 130.25"/>
+    <path fill="none" d="M17.77,129.05 L 17.77 130.25"/>
+    <path fill="none" d="M17.77,129.05 L 17.77 130.25"/>
+    <path fill="none" d="M17.77,129.05 L 17.77 130.25"/>
+    <path fill="none" d="M17.77,129.05 L 17.77 130.25"/>
+    <path fill="none" d="M17.77,129.05 L 17.77 130.25"/>
+    <path fill="none" d="M17.77,129.05 L 17.77 130.25"/>
+    <path fill="none" d="M17.77,129.05 L 17.77 130.25"/>
+    <path fill="none" d="M17.77,129.05 L 17.77 130.25"/>
+    <path fill="none" d="M17.77,129.05 L 17.77 130.25"/>
+    <path fill="none" d="M17.77,129.05 L 17.77 130.25"/>
+    <path fill="none" d="M38.08,129.05 L 38.08 130.25"/>
+    <path fill="none" d="M27.93,129.05 L 27.93 130.25"/>
+    <path fill="none" d="M24.54,129.05 L 24.54 130.25"/>
+    <path fill="none" d="M22.29,129.05 L 22.29 130.25"/>
+    <path fill="none" d="M21.16,129.05 L 21.16 130.25"/>
+    <path fill="none" d="M21.16,129.05 L 21.16 130.25"/>
+    <path fill="none" d="M20.03,129.05 L 20.03 130.25"/>
+    <path fill="none" d="M20.03,129.05 L 20.03 130.25"/>
+    <path fill="none" d="M20.03,129.05 L 20.03 130.25"/>
+    <path fill="none" d="M18.9,129.05 L 18.9 130.25"/>
+    <path fill="none" d="M18.9,129.05 L 18.9 130.25"/>
+    <path fill="none" d="M18.9,129.05 L 18.9 130.25"/>
+    <path fill="none" d="M18.9,129.05 L 18.9 130.25"/>
+    <path fill="none" d="M18.9,129.05 L 18.9 130.25"/>
+    <path fill="none" d="M18.9,129.05 L 18.9 130.25"/>
+    <path fill="none" d="M18.9,129.05 L 18.9 130.25"/>
+    <path fill="none" d="M18.9,129.05 L 18.9 130.25"/>
+    <path fill="none" d="M18.9,129.05 L 18.9 130.25"/>
+    <path fill="none" d="M18.9,129.05 L 18.9 130.25"/>
+    <path fill="none" d="M74.18,129.05 L 74.18 130.25"/>
+    <path fill="none" d="M45.98,129.05 L 45.98 130.25"/>
+    <path fill="none" d="M35.82,129.05 L 35.82 130.25"/>
+    <path fill="none" d="M31.31,129.05 L 31.31 130.25"/>
+    <path fill="none" d="M27.93,129.05 L 27.93 130.25"/>
+    <path fill="none" d="M26.8,129.05 L 26.8 130.25"/>
+    <path fill="none" d="M25.67,129.05 L 25.67 130.25"/>
+    <path fill="none" d="M24.54,129.05 L 24.54 130.25"/>
+    <path fill="none" d="M23.41,129.05 L 23.41 130.25"/>
+    <path fill="none" d="M22.29,129.05 L 22.29 130.25"/>
+    <path fill="none" d="M22.29,129.05 L 22.29 130.25"/>
+    <path fill="none" d="M21.16,129.05 L 21.16 130.25"/>
+    <path fill="none" d="M21.16,129.05 L 21.16 130.25"/>
+    <path fill="none" d="M21.16,129.05 L 21.16 130.25"/>
+    <path fill="none" d="M20.03,129.05 L 20.03 130.25"/>
+    <path fill="none" d="M20.03,129.05 L 20.03 130.25"/>
+    <path fill="none" d="M20.03,129.05 L 20.03 130.25"/>
+    <path fill="none" d="M20.03,129.05 L 20.03 130.25"/>
+    <path fill="none" d="M20.03,129.05 L 20.03 130.25"/>
+    <path fill="none" d="M132.85,129.05 L 132.85 130.25"/>
+    <path fill="none" d="M75.31,129.05 L 75.31 130.25"/>
+    <path fill="none" d="M55,129.05 L 55 130.25"/>
+    <path fill="none" d="M45.98,129.05 L 45.98 130.25"/>
+    <path fill="none" d="M40.34,129.05 L 40.34 130.25"/>
+    <path fill="none" d="M35.82,129.05 L 35.82 130.25"/>
+    <path fill="none" d="M33.57,129.05 L 33.57 130.25"/>
+    <path fill="none" d="M31.31,129.05 L 31.31 130.25"/>
+    <path fill="none" d="M30.18,129.05 L 30.18 130.25"/>
+    <path fill="none" d="M27.93,129.05 L 27.93 130.25"/>
+    <path fill="none" d="M26.8,129.05 L 26.8 130.25"/>
+    <path fill="none" d="M26.8,129.05 L 26.8 130.25"/>
+    <path fill="none" d="M25.67,129.05 L 25.67 130.25"/>
+    <path fill="none" d="M24.54,129.05 L 24.54 130.25"/>
+    <path fill="none" d="M24.54,129.05 L 24.54 130.25"/>
+    <path fill="none" d="M23.41,129.05 L 23.41 130.25"/>
+    <path fill="none" d="M23.41,129.05 L 23.41 130.25"/>
+    <path fill="none" d="M23.41,129.05 L 23.41 130.25"/>
+    <path fill="none" d="M21.16,129.05 L 21.16 130.25"/>
+    <path fill="none" d="M119.31,129.05 L 119.31 130.25"/>
+    <path fill="none" d="M85.46,129.05 L 85.46 130.25"/>
+    <path fill="none" d="M68.54,129.05 L 68.54 130.25"/>
+    <path fill="none" d="M57.26,129.05 L 57.26 130.25"/>
+    <path fill="none" d="M50.49,129.05 L 50.49 130.25"/>
+    <path fill="none" d="M45.98,129.05 L 45.98 130.25"/>
+    <path fill="none" d="M42.59,129.05 L 42.59 130.25"/>
+    <path fill="none" d="M39.21,129.05 L 39.21 130.25"/>
+    <path fill="none" d="M36.95,129.05 L 36.95 130.25"/>
+    <path fill="none" d="M35.82,129.05 L 35.82 130.25"/>
+    <path fill="none" d="M33.57,129.05 L 33.57 130.25"/>
+    <path fill="none" d="M32.44,129.05 L 32.44 130.25"/>
+    <path fill="none" d="M31.31,129.05 L 31.31 130.25"/>
+    <path fill="none" d="M30.18,129.05 L 30.18 130.25"/>
+    <path fill="none" d="M29.05,129.05 L 29.05 130.25"/>
+    <path fill="none" d="M29.05,129.05 L 29.05 130.25"/>
+    <path fill="none" d="M27.93,129.05 L 27.93 130.25"/>
+    <path fill="none" d="M26.8,129.05 L 26.8 130.25"/>
+    <path fill="none" d="M130.59,129.05 L 130.59 130.25"/>
+    <path fill="none" d="M101.26,129.05 L 101.26 130.25"/>
+    <path fill="none" d="M84.33,129.05 L 84.33 130.25"/>
+    <path fill="none" d="M73.05,129.05 L 73.05 130.25"/>
+    <path fill="none" d="M65.16,129.05 L 65.16 130.25"/>
+    <path fill="none" d="M59.52,129.05 L 59.52 130.25"/>
+    <path fill="none" d="M53.87,129.05 L 53.87 130.25"/>
+    <path fill="none" d="M50.49,129.05 L 50.49 130.25"/>
+    <path fill="none" d="M47.11,129.05 L 47.11 130.25"/>
+    <path fill="none" d="M44.85,129.05 L 44.85 130.25"/>
+    <path fill="none" d="M42.59,129.05 L 42.59 130.25"/>
+    <path fill="none" d="M40.34,129.05 L 40.34 130.25"/>
+    <path fill="none" d="M39.21,129.05 L 39.21 130.25"/>
+    <path fill="none" d="M38.08,129.05 L 38.08 130.25"/>
+    <path fill="none" d="M36.95,129.05 L 36.95 130.25"/>
+    <path fill="none" d="M34.7,129.05 L 34.7 130.25"/>
+    <path fill="none" d="M34.7,129.05 L 34.7 130.25"/>
+    <path fill="none" d="M126.08,129.05 L 126.08 130.25"/>
+    <path fill="none" d="M108.03,129.05 L 108.03 130.25"/>
+    <path fill="none" d="M94.49,129.05 L 94.49 130.25"/>
+    <path fill="none" d="M84.33,129.05 L 84.33 130.25"/>
+    <path fill="none" d="M77.57,129.05 L 77.57 130.25"/>
+    <path fill="none" d="M70.8,129.05 L 70.8 130.25"/>
+    <path fill="none" d="M66.28,129.05 L 66.28 130.25"/>
+    <path fill="none" d="M61.77,129.05 L 61.77 130.25"/>
+    <path fill="none" d="M58.39,129.05 L 58.39 130.25"/>
+    <path fill="none" d="M55,129.05 L 55 130.25"/>
+    <path fill="none" d="M52.75,129.05 L 52.75 130.25"/>
+    <path fill="none" d="M50.49,129.05 L 50.49 130.25"/>
+    <path fill="none" d="M48.23,129.05 L 48.23 130.25"/>
+    <path fill="none" d="M47.11,129.05 L 47.11 130.25"/>
+    <path fill="none" d="M44.85,129.05 L 44.85 130.25"/>
+    <path fill="none" d="M143,129.05 L 143 130.25"/>
+    <path fill="none" d="M127.21,129.05 L 127.21 130.25"/>
+    <path fill="none" d="M114.8,129.05 L 114.8 130.25"/>
+    <path fill="none" d="M104.64,129.05 L 104.64 130.25"/>
+    <path fill="none" d="M96.74,129.05 L 96.74 130.25"/>
+    <path fill="none" d="M89.98,129.05 L 89.98 130.25"/>
+    <path fill="none" d="M84.33,129.05 L 84.33 130.25"/>
+    <path fill="none" d="M79.82,129.05 L 79.82 130.25"/>
+    <path fill="none" d="M75.31,129.05 L 75.31 130.25"/>
+    <path fill="none" d="M71.93,129.05 L 71.93 130.25"/>
+    <path fill="none" d="M68.54,129.05 L 68.54 130.25"/>
+    <path fill="none" d="M65.16,129.05 L 65.16 130.25"/>
+    <path fill="none" d="M62.9,129.05 L 62.9 130.25"/>
+    <path fill="none" d="M138.49,129.05 L 138.49 130.25"/>
+    <path fill="none" d="M130.59,129.05 L 130.59 130.25"/>
+    <path fill="none" d="M123.82,129.05 L 123.82 130.25"/>
+    <path fill="none" d="M117.05,129.05 L 117.05 130.25"/>
+    <path fill="none" d="M111.41,129.05 L 111.41 130.25"/>
+    <path fill="none" d="M105.77,129.05 L 105.77 130.25"/>
+    <path fill="none" d="M20.03,129.05 L 20.03 130.25"/>
+    <path fill="none" d="M18.9,129.05 L 18.9 130.25"/>
+    <path fill="none" d="M17.77,129.05 L 17.77 130.25"/>
+    <path fill="none" d="M17.77,129.05 L 17.77 130.25"/>
+    <path fill="none" d="M17.77,129.05 L 17.77 130.25"/>
+    <path fill="none" d="M17.77,129.05 L 17.77 130.25"/>
+    <path fill="none" d="M17.77,129.05 L 17.77 130.25"/>
+    <path fill="none" d="M17.77,129.05 L 17.77 130.25"/>
+    <path fill="none" d="M17.77,129.05 L 17.77 130.25"/>
+    <path fill="none" d="M17.77,129.05 L 17.77 130.25"/>
+    <path fill="none" d="M17.77,129.05 L 17.77 130.25"/>
+    <path fill="none" d="M17.77,129.05 L 17.77 130.25"/>
+    <path fill="none" d="M17.77,129.05 L 17.77 130.25"/>
+    <path fill="none" d="M17.77,129.05 L 17.77 130.25"/>
+    <path fill="none" d="M17.77,129.05 L 17.77 130.25"/>
+    <path fill="none" d="M17.77,129.05 L 17.77 130.25"/>
+    <path fill="none" d="M17.77,129.05 L 17.77 130.25"/>
+    <path fill="none" d="M17.77,129.05 L 17.77 130.25"/>
+    <path fill="none" d="M17.77,129.05 L 17.77 130.25"/>
+    <path fill="none" d="M38.08,129.05 L 38.08 130.25"/>
+    <path fill="none" d="M27.93,129.05 L 27.93 130.25"/>
+    <path fill="none" d="M24.54,129.05 L 24.54 130.25"/>
+    <path fill="none" d="M22.29,129.05 L 22.29 130.25"/>
+    <path fill="none" d="M21.16,129.05 L 21.16 130.25"/>
+    <path fill="none" d="M21.16,129.05 L 21.16 130.25"/>
+    <path fill="none" d="M20.03,129.05 L 20.03 130.25"/>
+    <path fill="none" d="M20.03,129.05 L 20.03 130.25"/>
+    <path fill="none" d="M20.03,129.05 L 20.03 130.25"/>
+    <path fill="none" d="M18.9,129.05 L 18.9 130.25"/>
+    <path fill="none" d="M18.9,129.05 L 18.9 130.25"/>
+    <path fill="none" d="M18.9,129.05 L 18.9 130.25"/>
+    <path fill="none" d="M18.9,129.05 L 18.9 130.25"/>
+    <path fill="none" d="M18.9,129.05 L 18.9 130.25"/>
+    <path fill="none" d="M18.9,129.05 L 18.9 130.25"/>
+    <path fill="none" d="M18.9,129.05 L 18.9 130.25"/>
+    <path fill="none" d="M18.9,129.05 L 18.9 130.25"/>
+    <path fill="none" d="M18.9,129.05 L 18.9 130.25"/>
+    <path fill="none" d="M18.9,129.05 L 18.9 130.25"/>
+    <path fill="none" d="M74.18,129.05 L 74.18 130.25"/>
+    <path fill="none" d="M45.98,129.05 L 45.98 130.25"/>
+    <path fill="none" d="M35.82,129.05 L 35.82 130.25"/>
+    <path fill="none" d="M31.31,129.05 L 31.31 130.25"/>
+    <path fill="none" d="M27.93,129.05 L 27.93 130.25"/>
+    <path fill="none" d="M26.8,129.05 L 26.8 130.25"/>
+    <path fill="none" d="M25.67,129.05 L 25.67 130.25"/>
+    <path fill="none" d="M24.54,129.05 L 24.54 130.25"/>
+    <path fill="none" d="M23.41,129.05 L 23.41 130.25"/>
+    <path fill="none" d="M22.29,129.05 L 22.29 130.25"/>
+    <path fill="none" d="M22.29,129.05 L 22.29 130.25"/>
+    <path fill="none" d="M21.16,129.05 L 21.16 130.25"/>
+    <path fill="none" d="M21.16,129.05 L 21.16 130.25"/>
+    <path fill="none" d="M21.16,129.05 L 21.16 130.25"/>
+    <path fill="none" d="M20.03,129.05 L 20.03 130.25"/>
+    <path fill="none" d="M20.03,129.05 L 20.03 130.25"/>
+    <path fill="none" d="M20.03,129.05 L 20.03 130.25"/>
+    <path fill="none" d="M20.03,129.05 L 20.03 130.25"/>
+    <path fill="none" d="M20.03,129.05 L 20.03 130.25"/>
+    <path fill="none" d="M132.85,129.05 L 132.85 130.25"/>
+    <path fill="none" d="M75.31,129.05 L 75.31 130.25"/>
+    <path fill="none" d="M55,129.05 L 55 130.25"/>
+    <path fill="none" d="M45.98,129.05 L 45.98 130.25"/>
+    <path fill="none" d="M40.34,129.05 L 40.34 130.25"/>
+    <path fill="none" d="M35.82,129.05 L 35.82 130.25"/>
+    <path fill="none" d="M33.57,129.05 L 33.57 130.25"/>
+    <path fill="none" d="M31.31,129.05 L 31.31 130.25"/>
+    <path fill="none" d="M30.18,129.05 L 30.18 130.25"/>
+    <path fill="none" d="M27.93,129.05 L 27.93 130.25"/>
+    <path fill="none" d="M26.8,129.05 L 26.8 130.25"/>
+    <path fill="none" d="M26.8,129.05 L 26.8 130.25"/>
+    <path fill="none" d="M25.67,129.05 L 25.67 130.25"/>
+    <path fill="none" d="M24.54,129.05 L 24.54 130.25"/>
+    <path fill="none" d="M24.54,129.05 L 24.54 130.25"/>
+    <path fill="none" d="M23.41,129.05 L 23.41 130.25"/>
+    <path fill="none" d="M23.41,129.05 L 23.41 130.25"/>
+    <path fill="none" d="M23.41,129.05 L 23.41 130.25"/>
+    <path fill="none" d="M21.16,129.05 L 21.16 130.25"/>
+    <path fill="none" d="M119.31,129.05 L 119.31 130.25"/>
+    <path fill="none" d="M85.46,129.05 L 85.46 130.25"/>
+    <path fill="none" d="M68.54,129.05 L 68.54 130.25"/>
+    <path fill="none" d="M57.26,129.05 L 57.26 130.25"/>
+    <path fill="none" d="M50.49,129.05 L 50.49 130.25"/>
+    <path fill="none" d="M45.98,129.05 L 45.98 130.25"/>
+    <path fill="none" d="M42.59,129.05 L 42.59 130.25"/>
+    <path fill="none" d="M39.21,129.05 L 39.21 130.25"/>
+    <path fill="none" d="M36.95,129.05 L 36.95 130.25"/>
+    <path fill="none" d="M35.82,129.05 L 35.82 130.25"/>
+    <path fill="none" d="M33.57,129.05 L 33.57 130.25"/>
+    <path fill="none" d="M32.44,129.05 L 32.44 130.25"/>
+    <path fill="none" d="M31.31,129.05 L 31.31 130.25"/>
+    <path fill="none" d="M30.18,129.05 L 30.18 130.25"/>
+    <path fill="none" d="M29.05,129.05 L 29.05 130.25"/>
+    <path fill="none" d="M29.05,129.05 L 29.05 130.25"/>
+    <path fill="none" d="M27.93,129.05 L 27.93 130.25"/>
+    <path fill="none" d="M26.8,129.05 L 26.8 130.25"/>
+    <path fill="none" d="M130.59,129.05 L 130.59 130.25"/>
+    <path fill="none" d="M101.26,129.05 L 101.26 130.25"/>
+    <path fill="none" d="M84.33,129.05 L 84.33 130.25"/>
+    <path fill="none" d="M73.05,129.05 L 73.05 130.25"/>
+    <path fill="none" d="M65.16,129.05 L 65.16 130.25"/>
+    <path fill="none" d="M59.52,129.05 L 59.52 130.25"/>
+    <path fill="none" d="M53.87,129.05 L 53.87 130.25"/>
+    <path fill="none" d="M50.49,129.05 L 50.49 130.25"/>
+    <path fill="none" d="M47.11,129.05 L 47.11 130.25"/>
+    <path fill="none" d="M44.85,129.05 L 44.85 130.25"/>
+    <path fill="none" d="M42.59,129.05 L 42.59 130.25"/>
+    <path fill="none" d="M40.34,129.05 L 40.34 130.25"/>
+    <path fill="none" d="M39.21,129.05 L 39.21 130.25"/>
+    <path fill="none" d="M38.08,129.05 L 38.08 130.25"/>
+    <path fill="none" d="M36.95,129.05 L 36.95 130.25"/>
+    <path fill="none" d="M34.7,129.05 L 34.7 130.25"/>
+    <path fill="none" d="M34.7,129.05 L 34.7 130.25"/>
+    <path fill="none" d="M126.08,129.05 L 126.08 130.25"/>
+    <path fill="none" d="M108.03,129.05 L 108.03 130.25"/>
+    <path fill="none" d="M94.49,129.05 L 94.49 130.25"/>
+    <path fill="none" d="M84.33,129.05 L 84.33 130.25"/>
+    <path fill="none" d="M77.57,129.05 L 77.57 130.25"/>
+    <path fill="none" d="M70.8,129.05 L 70.8 130.25"/>
+    <path fill="none" d="M66.28,129.05 L 66.28 130.25"/>
+    <path fill="none" d="M61.77,129.05 L 61.77 130.25"/>
+    <path fill="none" d="M58.39,129.05 L 58.39 130.25"/>
+    <path fill="none" d="M55,129.05 L 55 130.25"/>
+    <path fill="none" d="M52.75,129.05 L 52.75 130.25"/>
+    <path fill="none" d="M50.49,129.05 L 50.49 130.25"/>
+    <path fill="none" d="M48.23,129.05 L 48.23 130.25"/>
+    <path fill="none" d="M47.11,129.05 L 47.11 130.25"/>
+    <path fill="none" d="M44.85,129.05 L 44.85 130.25"/>
+    <path fill="none" d="M143,129.05 L 143 130.25"/>
+    <path fill="none" d="M127.21,129.05 L 127.21 130.25"/>
+    <path fill="none" d="M114.8,129.05 L 114.8 130.25"/>
+    <path fill="none" d="M104.64,129.05 L 104.64 130.25"/>
+    <path fill="none" d="M96.74,129.05 L 96.74 130.25"/>
+    <path fill="none" d="M89.98,129.05 L 89.98 130.25"/>
+    <path fill="none" d="M84.33,129.05 L 84.33 130.25"/>
+    <path fill="none" d="M79.82,129.05 L 79.82 130.25"/>
+    <path fill="none" d="M75.31,129.05 L 75.31 130.25"/>
+    <path fill="none" d="M71.93,129.05 L 71.93 130.25"/>
+    <path fill="none" d="M68.54,129.05 L 68.54 130.25"/>
+    <path fill="none" d="M65.16,129.05 L 65.16 130.25"/>
+    <path fill="none" d="M62.9,129.05 L 62.9 130.25"/>
+    <path fill="none" d="M138.49,129.05 L 138.49 130.25"/>
+    <path fill="none" d="M130.59,129.05 L 130.59 130.25"/>
+    <path fill="none" d="M123.82,129.05 L 123.82 130.25"/>
+    <path fill="none" d="M117.05,129.05 L 117.05 130.25"/>
+    <path fill="none" d="M111.41,129.05 L 111.41 130.25"/>
+    <path fill="none" d="M105.77,129.05 L 105.77 130.25"/>
+  </g>
+</g>
+<g clip-path="url(#img-02804c27-7)">
+  <g id="img-02804c27-8">
+    <g pointer-events="visible" opacity="1" fill="#FFFFFF" stroke="#000000" stroke-opacity="0.000" class="guide background" id="img-02804c27-9">
+      <rect x="14.64" y="9.82" width="130.36" height="118.83"/>
+    </g>
+    <g class="guide xgridlines yfixed" stroke-dasharray="0.5,0.5" stroke-width="0.2" stroke="#D3D3D3" id="img-02804c27-10">
+      <path fill="none" d="M16.64,9.82 L 16.64 128.65"/>
+      <path fill="none" d="M27.93,9.82 L 27.93 128.65"/>
+      <path fill="none" d="M39.21,9.82 L 39.21 128.65"/>
+      <path fill="none" d="M50.49,9.82 L 50.49 128.65"/>
+      <path fill="none" d="M61.77,9.82 L 61.77 128.65"/>
+      <path fill="none" d="M73.05,9.82 L 73.05 128.65"/>
+      <path fill="none" d="M84.33,9.82 L 84.33 128.65"/>
+      <path fill="none" d="M95.62,9.82 L 95.62 128.65"/>
+      <path fill="none" d="M106.9,9.82 L 106.9 128.65"/>
+      <path fill="none" d="M118.18,9.82 L 118.18 128.65"/>
+      <path fill="none" d="M129.46,9.82 L 129.46 128.65"/>
+      <path fill="none" d="M140.74,9.82 L 140.74 128.65"/>
+    </g>
+    <g class="guide ygridlines xfixed" stroke-dasharray="0.5,0.5" stroke-width="0.2" stroke="#D3D3D3" id="img-02804c27-11">
+      <path fill="none" d="M14.64,126.65 L 145 126.65"/>
+      <path fill="none" d="M14.64,113.89 L 145 113.89"/>
+      <path fill="none" d="M14.64,101.13 L 145 101.13"/>
+      <path fill="none" d="M14.64,88.37 L 145 88.37"/>
+      <path fill="none" d="M14.64,75.62 L 145 75.62"/>
+      <path fill="none" d="M14.64,62.86 L 145 62.86"/>
+      <path fill="none" d="M14.64,50.1 L 145 50.1"/>
+      <path fill="none" d="M14.64,37.34 L 145 37.34"/>
+      <path fill="none" d="M14.64,24.58 L 145 24.58"/>
+      <path fill="none" d="M14.64,11.82 L 145 11.82"/>
+    </g>
+    <g class="plotpanel" id="img-02804c27-12">
+      <g class="geometry" id="img-02804c27-13">
+        <g stroke-width="0.3" id="img-02804c27-14">
+          <g class="color_" stroke="#320000" fill="#95474A" id="img-02804c27-15">
+            <use xlink:href="#img-02804c27-16" x="105.77" y="24.58"/>
+          </g>
+          <g class="color_" stroke="#3E0500" fill="#A96559" id="img-02804c27-17">
+            <use xlink:href="#img-02804c27-18" x="111.41" y="24.58"/>
+          </g>
+          <g class="color_" stroke="#4D2211" fill="#B9816B" id="img-02804c27-19">
+            <use xlink:href="#img-02804c27-20" x="117.05" y="24.58"/>
+          </g>
+          <g class="color_" stroke="#5B3921" fill="#C69C80" id="img-02804c27-21">
+            <use xlink:href="#img-02804c27-22" x="123.82" y="24.58"/>
+          </g>
+          <g class="color_" stroke="#664F35" fill="#D2B497" id="img-02804c27-23">
+            <use xlink:href="#img-02804c27-24" x="130.59" y="24.58"/>
+          </g>
+          <g class="color_" stroke="#6A5D44" fill="#D5C4A9" id="img-02804c27-25">
+            <use xlink:href="#img-02804c27-26" x="138.49" y="24.58"/>
+          </g>
+          <g class="color_" stroke="#320000" fill="#95474A" id="img-02804c27-27">
+            <use xlink:href="#img-02804c27-28" x="62.9" y="37.34"/>
+          </g>
+          <g class="color_" stroke="#3E0500" fill="#A96559" id="img-02804c27-29">
+            <use xlink:href="#img-02804c27-30" x="65.16" y="37.34"/>
+          </g>
+          <g class="color_" stroke="#4D2211" fill="#B9816B" id="img-02804c27-31">
+            <use xlink:href="#img-02804c27-32" x="68.54" y="37.34"/>
+          </g>
+          <g class="color_" stroke="#5B3921" fill="#C69C80" id="img-02804c27-33">
+            <use xlink:href="#img-02804c27-34" x="71.93" y="37.34"/>
+          </g>
+          <g class="color_" stroke="#664F35" fill="#D2B497" id="img-02804c27-35">
+            <use xlink:href="#img-02804c27-36" x="75.31" y="37.34"/>
+          </g>
+          <g class="color_" stroke="#6A5D44" fill="#D5C4A9" id="img-02804c27-37">
+            <use xlink:href="#img-02804c27-38" x="79.82" y="37.34"/>
+          </g>
+          <g class="color_" stroke="#635E4B" fill="#CDC6B0" id="img-02804c27-39">
+            <use xlink:href="#img-02804c27-40" x="84.33" y="37.34"/>
+          </g>
+          <g class="color_" stroke="#5F5F4F" fill="#C7C8B5" id="img-02804c27-41">
+            <use xlink:href="#img-02804c27-42" x="89.98" y="37.34"/>
+          </g>
+          <g class="color_" stroke="#5B6050" fill="#C3C9B7" id="img-02804c27-43">
+            <use xlink:href="#img-02804c27-44" x="96.74" y="37.34"/>
+          </g>
+          <g class="color_" stroke="#576153" fill="#BECAB9" id="img-02804c27-45">
+            <use xlink:href="#img-02804c27-46" x="104.64" y="37.34"/>
+          </g>
+          <g class="color_" stroke="#536255" fill="#BACBBC" id="img-02804c27-47">
+            <use xlink:href="#img-02804c27-48" x="114.8" y="37.34"/>
+          </g>
+          <g class="color_" stroke="#506358" fill="#B6CBC0" id="img-02804c27-49">
+            <use xlink:href="#img-02804c27-50" x="127.21" y="37.34"/>
+          </g>
+          <g class="color_" stroke="#49645B" fill="#AFCDC3" id="img-02804c27-51">
+            <use xlink:href="#img-02804c27-52" x="143" y="37.34"/>
+          </g>
+          <g class="color_" stroke="#320000" fill="#95474A" id="img-02804c27-53">
+            <use xlink:href="#img-02804c27-54" x="44.85" y="50.1"/>
+          </g>
+          <g class="color_" stroke="#3E0500" fill="#A96559" id="img-02804c27-55">
+            <use xlink:href="#img-02804c27-56" x="47.11" y="50.1"/>
+          </g>
+          <g class="color_" stroke="#4D2211" fill="#B9816B" id="img-02804c27-57">
+            <use xlink:href="#img-02804c27-58" x="48.23" y="50.1"/>
+          </g>
+          <g class="color_" stroke="#5B3921" fill="#C69C80" id="img-02804c27-59">
+            <use xlink:href="#img-02804c27-60" x="50.49" y="50.1"/>
+          </g>
+          <g class="color_" stroke="#664F35" fill="#D2B497" id="img-02804c27-61">
+            <use xlink:href="#img-02804c27-62" x="52.75" y="50.1"/>
+          </g>
+          <g class="color_" stroke="#6A5D44" fill="#D5C4A9" id="img-02804c27-63">
+            <use xlink:href="#img-02804c27-64" x="55" y="50.1"/>
+          </g>
+          <g class="color_" stroke="#635E4B" fill="#CDC6B0" id="img-02804c27-65">
+            <use xlink:href="#img-02804c27-66" x="58.39" y="50.1"/>
+          </g>
+          <g class="color_" stroke="#5F5F4F" fill="#C7C8B5" id="img-02804c27-67">
+            <use xlink:href="#img-02804c27-68" x="61.77" y="50.1"/>
+          </g>
+          <g class="color_" stroke="#5B6050" fill="#C3C9B7" id="img-02804c27-69">
+            <use xlink:href="#img-02804c27-70" x="66.28" y="50.1"/>
+          </g>
+          <g class="color_" stroke="#576153" fill="#BECAB9" id="img-02804c27-71">
+            <use xlink:href="#img-02804c27-72" x="70.8" y="50.1"/>
+          </g>
+          <g class="color_" stroke="#536255" fill="#BACBBC" id="img-02804c27-73">
+            <use xlink:href="#img-02804c27-74" x="77.57" y="50.1"/>
+          </g>
+          <g class="color_" stroke="#506358" fill="#B6CBC0" id="img-02804c27-75">
+            <use xlink:href="#img-02804c27-76" x="84.33" y="50.1"/>
+          </g>
+          <g class="color_" stroke="#49645B" fill="#AFCDC3" id="img-02804c27-77">
+            <use xlink:href="#img-02804c27-78" x="94.49" y="50.1"/>
+          </g>
+          <g class="color_" stroke="#3C6660" fill="#A3CFC8" id="img-02804c27-79">
+            <use xlink:href="#img-02804c27-80" x="108.03" y="50.1"/>
+          </g>
+          <g class="color_" stroke="#1E5C5C" fill="#88C4C4" id="img-02804c27-81">
+            <use xlink:href="#img-02804c27-82" x="126.08" y="50.1"/>
+          </g>
+          <g class="color_" stroke="#320000" fill="#95474A" id="img-02804c27-83">
+            <use xlink:href="#img-02804c27-84" x="34.7" y="62.86"/>
+          </g>
+          <g class="color_" stroke="#3E0500" fill="#A96559" id="img-02804c27-85">
+            <use xlink:href="#img-02804c27-86" x="34.7" y="62.86"/>
+          </g>
+          <g class="color_" stroke="#4D2211" fill="#B9816B" id="img-02804c27-87">
+            <use xlink:href="#img-02804c27-88" x="36.95" y="62.86"/>
+          </g>
+          <g class="color_" stroke="#5B3921" fill="#C69C80" id="img-02804c27-89">
+            <use xlink:href="#img-02804c27-90" x="38.08" y="62.86"/>
+          </g>
+          <g class="color_" stroke="#664F35" fill="#D2B497" id="img-02804c27-91">
+            <use xlink:href="#img-02804c27-92" x="39.21" y="62.86"/>
+          </g>
+          <g class="color_" stroke="#6A5D44" fill="#D5C4A9" id="img-02804c27-93">
+            <use xlink:href="#img-02804c27-94" x="40.34" y="62.86"/>
+          </g>
+          <g class="color_" stroke="#635E4B" fill="#CDC6B0" id="img-02804c27-95">
+            <use xlink:href="#img-02804c27-96" x="42.59" y="62.86"/>
+          </g>
+          <g class="color_" stroke="#5F5F4F" fill="#C7C8B5" id="img-02804c27-97">
+            <use xlink:href="#img-02804c27-98" x="44.85" y="62.86"/>
+          </g>
+          <g class="color_" stroke="#5B6050" fill="#C3C9B7" id="img-02804c27-99">
+            <use xlink:href="#img-02804c27-100" x="47.11" y="62.86"/>
+          </g>
+          <g class="color_" stroke="#576153" fill="#BECAB9" id="img-02804c27-101">
+            <use xlink:href="#img-02804c27-102" x="50.49" y="62.86"/>
+          </g>
+          <g class="color_" stroke="#536255" fill="#BACBBC" id="img-02804c27-103">
+            <use xlink:href="#img-02804c27-104" x="53.87" y="62.86"/>
+          </g>
+          <g class="color_" stroke="#506358" fill="#B6CBC0" id="img-02804c27-105">
+            <use xlink:href="#img-02804c27-106" x="59.52" y="62.86"/>
+          </g>
+          <g class="color_" stroke="#49645B" fill="#AFCDC3" id="img-02804c27-107">
+            <use xlink:href="#img-02804c27-108" x="65.16" y="62.86"/>
+          </g>
+          <g class="color_" stroke="#3C6660" fill="#A3CFC8" id="img-02804c27-109">
+            <use xlink:href="#img-02804c27-110" x="73.05" y="62.86"/>
+          </g>
+          <g class="color_" stroke="#1E5C5C" fill="#88C4C4" id="img-02804c27-111">
+            <use xlink:href="#img-02804c27-112" x="84.33" y="62.86"/>
+          </g>
+          <g class="color_" stroke="#004A53" fill="#65B0B9" id="img-02804c27-113">
+            <use xlink:href="#img-02804c27-114" x="101.26" y="62.86"/>
+          </g>
+          <g class="color_" stroke="#003749" fill="#3D9AAE" id="img-02804c27-115">
+            <use xlink:href="#img-02804c27-116" x="130.59" y="62.86"/>
+          </g>
+          <g class="color_" stroke="#320000" fill="#95474A" id="img-02804c27-117">
+            <use xlink:href="#img-02804c27-118" x="26.8" y="75.62"/>
+          </g>
+          <g class="color_" stroke="#3E0500" fill="#A96559" id="img-02804c27-119">
+            <use xlink:href="#img-02804c27-120" x="27.93" y="75.62"/>
+          </g>
+          <g class="color_" stroke="#4D2211" fill="#B9816B" id="img-02804c27-121">
+            <use xlink:href="#img-02804c27-122" x="29.05" y="75.62"/>
+          </g>
+          <g class="color_" stroke="#5B3921" fill="#C69C80" id="img-02804c27-123">
+            <use xlink:href="#img-02804c27-124" x="29.05" y="75.62"/>
+          </g>
+          <g class="color_" stroke="#664F35" fill="#D2B497" id="img-02804c27-125">
+            <use xlink:href="#img-02804c27-126" x="30.18" y="75.62"/>
+          </g>
+          <g class="color_" stroke="#6A5D44" fill="#D5C4A9" id="img-02804c27-127">
+            <use xlink:href="#img-02804c27-128" x="31.31" y="75.62"/>
+          </g>
+          <g class="color_" stroke="#635E4B" fill="#CDC6B0" id="img-02804c27-129">
+            <use xlink:href="#img-02804c27-130" x="32.44" y="75.62"/>
+          </g>
+          <g class="color_" stroke="#5F5F4F" fill="#C7C8B5" id="img-02804c27-131">
+            <use xlink:href="#img-02804c27-132" x="33.57" y="75.62"/>
+          </g>
+          <g class="color_" stroke="#5B6050" fill="#C3C9B7" id="img-02804c27-133">
+            <use xlink:href="#img-02804c27-134" x="35.82" y="75.62"/>
+          </g>
+          <g class="color_" stroke="#576153" fill="#BECAB9" id="img-02804c27-135">
+            <use xlink:href="#img-02804c27-136" x="36.95" y="75.62"/>
+          </g>
+          <g class="color_" stroke="#536255" fill="#BACBBC" id="img-02804c27-137">
+            <use xlink:href="#img-02804c27-138" x="39.21" y="75.62"/>
+          </g>
+          <g class="color_" stroke="#506358" fill="#B6CBC0" id="img-02804c27-139">
+            <use xlink:href="#img-02804c27-140" x="42.59" y="75.62"/>
+          </g>
+          <g class="color_" stroke="#49645B" fill="#AFCDC3" id="img-02804c27-141">
+            <use xlink:href="#img-02804c27-142" x="45.98" y="75.62"/>
+          </g>
+          <g class="color_" stroke="#3C6660" fill="#A3CFC8" id="img-02804c27-143">
+            <use xlink:href="#img-02804c27-144" x="50.49" y="75.62"/>
+          </g>
+          <g class="color_" stroke="#1E5C5C" fill="#88C4C4" id="img-02804c27-145">
+            <use xlink:href="#img-02804c27-146" x="57.26" y="75.62"/>
+          </g>
+          <g class="color_" stroke="#004A53" fill="#65B0B9" id="img-02804c27-147">
+            <use xlink:href="#img-02804c27-148" x="68.54" y="75.62"/>
+          </g>
+          <g class="color_" stroke="#003749" fill="#3D9AAE" id="img-02804c27-149">
+            <use xlink:href="#img-02804c27-150" x="85.46" y="75.62"/>
+          </g>
+          <g class="color_" stroke="#00233F" fill="#0081A3" id="img-02804c27-151">
+            <use xlink:href="#img-02804c27-152" x="119.31" y="75.62"/>
+          </g>
+          <g class="color_" stroke="#320000" fill="#95474A" id="img-02804c27-153">
+            <use xlink:href="#img-02804c27-154" x="21.16" y="88.37"/>
+          </g>
+          <g class="color_" stroke="#3E0500" fill="#A96559" id="img-02804c27-155">
+            <use xlink:href="#img-02804c27-156" x="23.41" y="88.37"/>
+          </g>
+          <g class="color_" stroke="#4D2211" fill="#B9816B" id="img-02804c27-157">
+            <use xlink:href="#img-02804c27-158" x="23.41" y="88.37"/>
+          </g>
+          <g class="color_" stroke="#5B3921" fill="#C69C80" id="img-02804c27-159">
+            <use xlink:href="#img-02804c27-160" x="23.41" y="88.37"/>
+          </g>
+          <g class="color_" stroke="#664F35" fill="#D2B497" id="img-02804c27-161">
+            <use xlink:href="#img-02804c27-162" x="24.54" y="88.37"/>
+          </g>
+          <g class="color_" stroke="#6A5D44" fill="#D5C4A9" id="img-02804c27-163">
+            <use xlink:href="#img-02804c27-164" x="24.54" y="88.37"/>
+          </g>
+          <g class="color_" stroke="#635E4B" fill="#CDC6B0" id="img-02804c27-165">
+            <use xlink:href="#img-02804c27-166" x="25.67" y="88.37"/>
+          </g>
+          <g class="color_" stroke="#5F5F4F" fill="#C7C8B5" id="img-02804c27-167">
+            <use xlink:href="#img-02804c27-168" x="26.8" y="88.37"/>
+          </g>
+          <g class="color_" stroke="#5B6050" fill="#C3C9B7" id="img-02804c27-169">
+            <use xlink:href="#img-02804c27-170" x="26.8" y="88.37"/>
+          </g>
+          <g class="color_" stroke="#576153" fill="#BECAB9" id="img-02804c27-171">
+            <use xlink:href="#img-02804c27-172" x="27.93" y="88.37"/>
+          </g>
+          <g class="color_" stroke="#536255" fill="#BACBBC" id="img-02804c27-173">
+            <use xlink:href="#img-02804c27-174" x="30.18" y="88.37"/>
+          </g>
+          <g class="color_" stroke="#506358" fill="#B6CBC0" id="img-02804c27-175">
+            <use xlink:href="#img-02804c27-176" x="31.31" y="88.37"/>
+          </g>
+          <g class="color_" stroke="#49645B" fill="#AFCDC3" id="img-02804c27-177">
+            <use xlink:href="#img-02804c27-178" x="33.57" y="88.37"/>
+          </g>
+          <g class="color_" stroke="#3C6660" fill="#A3CFC8" id="img-02804c27-179">
+            <use xlink:href="#img-02804c27-180" x="35.82" y="88.37"/>
+          </g>
+          <g class="color_" stroke="#1E5C5C" fill="#88C4C4" id="img-02804c27-181">
+            <use xlink:href="#img-02804c27-182" x="40.34" y="88.37"/>
+          </g>
+          <g class="color_" stroke="#004A53" fill="#65B0B9" id="img-02804c27-183">
+            <use xlink:href="#img-02804c27-184" x="45.98" y="88.37"/>
+          </g>
+          <g class="color_" stroke="#003749" fill="#3D9AAE" id="img-02804c27-185">
+            <use xlink:href="#img-02804c27-186" x="55" y="88.37"/>
+          </g>
+          <g class="color_" stroke="#00233F" fill="#0081A3" id="img-02804c27-187">
+            <use xlink:href="#img-02804c27-188" x="75.31" y="88.37"/>
+          </g>
+          <g class="color_" stroke="#000F33" fill="#006895" id="img-02804c27-189">
+            <use xlink:href="#img-02804c27-190" x="132.85" y="88.37"/>
+          </g>
+          <g class="color_" stroke="#320000" fill="#95474A" id="img-02804c27-191">
+            <use xlink:href="#img-02804c27-192" x="20.03" y="101.13"/>
+          </g>
+          <g class="color_" stroke="#3E0500" fill="#A96559" id="img-02804c27-193">
+            <use xlink:href="#img-02804c27-194" x="20.03" y="101.13"/>
+          </g>
+          <g class="color_" stroke="#4D2211" fill="#B9816B" id="img-02804c27-195">
+            <use xlink:href="#img-02804c27-196" x="20.03" y="101.13"/>
+          </g>
+          <g class="color_" stroke="#5B3921" fill="#C69C80" id="img-02804c27-197">
+            <use xlink:href="#img-02804c27-198" x="20.03" y="101.13"/>
+          </g>
+          <g class="color_" stroke="#664F35" fill="#D2B497" id="img-02804c27-199">
+            <use xlink:href="#img-02804c27-200" x="20.03" y="101.13"/>
+          </g>
+          <g class="color_" stroke="#6A5D44" fill="#D5C4A9" id="img-02804c27-201">
+            <use xlink:href="#img-02804c27-202" x="21.16" y="101.13"/>
+          </g>
+          <g class="color_" stroke="#635E4B" fill="#CDC6B0" id="img-02804c27-203">
+            <use xlink:href="#img-02804c27-204" x="21.16" y="101.13"/>
+          </g>
+          <g class="color_" stroke="#5F5F4F" fill="#C7C8B5" id="img-02804c27-205">
+            <use xlink:href="#img-02804c27-206" x="21.16" y="101.13"/>
+          </g>
+          <g class="color_" stroke="#5B6050" fill="#C3C9B7" id="img-02804c27-207">
+            <use xlink:href="#img-02804c27-208" x="22.29" y="101.13"/>
+          </g>
+          <g class="color_" stroke="#576153" fill="#BECAB9" id="img-02804c27-209">
+            <use xlink:href="#img-02804c27-210" x="22.29" y="101.13"/>
+          </g>
+          <g class="color_" stroke="#536255" fill="#BACBBC" id="img-02804c27-211">
+            <use xlink:href="#img-02804c27-212" x="23.41" y="101.13"/>
+          </g>
+          <g class="color_" stroke="#506358" fill="#B6CBC0" id="img-02804c27-213">
+            <use xlink:href="#img-02804c27-214" x="24.54" y="101.13"/>
+          </g>
+          <g class="color_" stroke="#49645B" fill="#AFCDC3" id="img-02804c27-215">
+            <use xlink:href="#img-02804c27-216" x="25.67" y="101.13"/>
+          </g>
+          <g class="color_" stroke="#3C6660" fill="#A3CFC8" id="img-02804c27-217">
+            <use xlink:href="#img-02804c27-218" x="26.8" y="101.13"/>
+          </g>
+          <g class="color_" stroke="#1E5C5C" fill="#88C4C4" id="img-02804c27-219">
+            <use xlink:href="#img-02804c27-220" x="27.93" y="101.13"/>
+          </g>
+          <g class="color_" stroke="#004A53" fill="#65B0B9" id="img-02804c27-221">
+            <use xlink:href="#img-02804c27-222" x="31.31" y="101.13"/>
+          </g>
+          <g class="color_" stroke="#003749" fill="#3D9AAE" id="img-02804c27-223">
+            <use xlink:href="#img-02804c27-224" x="35.82" y="101.13"/>
+          </g>
+          <g class="color_" stroke="#00233F" fill="#0081A3" id="img-02804c27-225">
+            <use xlink:href="#img-02804c27-226" x="45.98" y="101.13"/>
+          </g>
+          <g class="color_" stroke="#000F33" fill="#006895" id="img-02804c27-227">
+            <use xlink:href="#img-02804c27-228" x="74.18" y="101.13"/>
+          </g>
+          <g class="color_" stroke="#320000" fill="#95474A" id="img-02804c27-229">
+            <use xlink:href="#img-02804c27-230" x="18.9" y="113.89"/>
+          </g>
+          <g class="color_" stroke="#3E0500" fill="#A96559" id="img-02804c27-231">
+            <use xlink:href="#img-02804c27-232" x="18.9" y="113.89"/>
+          </g>
+          <g class="color_" stroke="#4D2211" fill="#B9816B" id="img-02804c27-233">
+            <use xlink:href="#img-02804c27-234" x="18.9" y="113.89"/>
+          </g>
+          <g class="color_" stroke="#5B3921" fill="#C69C80" id="img-02804c27-235">
+            <use xlink:href="#img-02804c27-236" x="18.9" y="113.89"/>
+          </g>
+          <g class="color_" stroke="#664F35" fill="#D2B497" id="img-02804c27-237">
+            <use xlink:href="#img-02804c27-238" x="18.9" y="113.89"/>
+          </g>
+          <g class="color_" stroke="#6A5D44" fill="#D5C4A9" id="img-02804c27-239">
+            <use xlink:href="#img-02804c27-240" x="18.9" y="113.89"/>
+          </g>
+          <g class="color_" stroke="#635E4B" fill="#CDC6B0" id="img-02804c27-241">
+            <use xlink:href="#img-02804c27-242" x="18.9" y="113.89"/>
+          </g>
+          <g class="color_" stroke="#5F5F4F" fill="#C7C8B5" id="img-02804c27-243">
+            <use xlink:href="#img-02804c27-244" x="18.9" y="113.89"/>
+          </g>
+          <g class="color_" stroke="#5B6050" fill="#C3C9B7" id="img-02804c27-245">
+            <use xlink:href="#img-02804c27-246" x="18.9" y="113.89"/>
+          </g>
+          <g class="color_" stroke="#576153" fill="#BECAB9" id="img-02804c27-247">
+            <use xlink:href="#img-02804c27-248" x="18.9" y="113.89"/>
+          </g>
+          <g class="color_" stroke="#536255" fill="#BACBBC" id="img-02804c27-249">
+            <use xlink:href="#img-02804c27-250" x="20.03" y="113.89"/>
+          </g>
+          <g class="color_" stroke="#506358" fill="#B6CBC0" id="img-02804c27-251">
+            <use xlink:href="#img-02804c27-252" x="20.03" y="113.89"/>
+          </g>
+          <g class="color_" stroke="#49645B" fill="#AFCDC3" id="img-02804c27-253">
+            <use xlink:href="#img-02804c27-254" x="20.03" y="113.89"/>
+          </g>
+          <g class="color_" stroke="#3C6660" fill="#A3CFC8" id="img-02804c27-255">
+            <use xlink:href="#img-02804c27-256" x="21.16" y="113.89"/>
+          </g>
+          <g class="color_" stroke="#1E5C5C" fill="#88C4C4" id="img-02804c27-257">
+            <use xlink:href="#img-02804c27-258" x="21.16" y="113.89"/>
+          </g>
+          <g class="color_" stroke="#004A53" fill="#65B0B9" id="img-02804c27-259">
+            <use xlink:href="#img-02804c27-260" x="22.29" y="113.89"/>
+          </g>
+          <g class="color_" stroke="#003749" fill="#3D9AAE" id="img-02804c27-261">
+            <use xlink:href="#img-02804c27-262" x="24.54" y="113.89"/>
+          </g>
+          <g class="color_" stroke="#00233F" fill="#0081A3" id="img-02804c27-263">
+            <use xlink:href="#img-02804c27-264" x="27.93" y="113.89"/>
+          </g>
+          <g class="color_" stroke="#000F33" fill="#006895" id="img-02804c27-265">
+            <use xlink:href="#img-02804c27-266" x="38.08" y="113.89"/>
+          </g>
+          <g class="color_" stroke="#320000" fill="#95474A" id="img-02804c27-267">
+            <use xlink:href="#img-02804c27-268" x="17.77" y="126.65"/>
+          </g>
+          <g class="color_" stroke="#3E0500" fill="#A96559" id="img-02804c27-269">
+            <use xlink:href="#img-02804c27-270" x="17.77" y="126.65"/>
+          </g>
+          <g class="color_" stroke="#4D2211" fill="#B9816B" id="img-02804c27-271">
+            <use xlink:href="#img-02804c27-272" x="17.77" y="126.65"/>
+          </g>
+          <g class="color_" stroke="#5B3921" fill="#C69C80" id="img-02804c27-273">
+            <use xlink:href="#img-02804c27-274" x="17.77" y="126.65"/>
+          </g>
+          <g class="color_" stroke="#664F35" fill="#D2B497" id="img-02804c27-275">
+            <use xlink:href="#img-02804c27-276" x="17.77" y="126.65"/>
+          </g>
+          <g class="color_" stroke="#6A5D44" fill="#D5C4A9" id="img-02804c27-277">
+            <use xlink:href="#img-02804c27-278" x="17.77" y="126.65"/>
+          </g>
+          <g class="color_" stroke="#635E4B" fill="#CDC6B0" id="img-02804c27-279">
+            <use xlink:href="#img-02804c27-280" x="17.77" y="126.65"/>
+          </g>
+          <g class="color_" stroke="#5F5F4F" fill="#C7C8B5" id="img-02804c27-281">
+            <use xlink:href="#img-02804c27-282" x="17.77" y="126.65"/>
+          </g>
+          <g class="color_" stroke="#5B6050" fill="#C3C9B7" id="img-02804c27-283">
+            <use xlink:href="#img-02804c27-284" x="17.77" y="126.65"/>
+          </g>
+          <g class="color_" stroke="#576153" fill="#BECAB9" id="img-02804c27-285">
+            <use xlink:href="#img-02804c27-286" x="17.77" y="126.65"/>
+          </g>
+          <g class="color_" stroke="#536255" fill="#BACBBC" id="img-02804c27-287">
+            <use xlink:href="#img-02804c27-288" x="17.77" y="126.65"/>
+          </g>
+          <g class="color_" stroke="#506358" fill="#B6CBC0" id="img-02804c27-289">
+            <use xlink:href="#img-02804c27-290" x="17.77" y="126.65"/>
+          </g>
+          <g class="color_" stroke="#49645B" fill="#AFCDC3" id="img-02804c27-291">
+            <use xlink:href="#img-02804c27-292" x="17.77" y="126.65"/>
+          </g>
+          <g class="color_" stroke="#3C6660" fill="#A3CFC8" id="img-02804c27-293">
+            <use xlink:href="#img-02804c27-294" x="17.77" y="126.65"/>
+          </g>
+          <g class="color_" stroke="#1E5C5C" fill="#88C4C4" id="img-02804c27-295">
+            <use xlink:href="#img-02804c27-296" x="17.77" y="126.65"/>
+          </g>
+          <g class="color_" stroke="#004A53" fill="#65B0B9" id="img-02804c27-297">
+            <use xlink:href="#img-02804c27-298" x="17.77" y="126.65"/>
+          </g>
+          <g class="color_" stroke="#003749" fill="#3D9AAE" id="img-02804c27-299">
+            <use xlink:href="#img-02804c27-300" x="17.77" y="126.65"/>
+          </g>
+          <g class="color_" stroke="#00233F" fill="#0081A3" id="img-02804c27-301">
+            <use xlink:href="#img-02804c27-302" x="18.9" y="126.65"/>
+          </g>
+          <g class="color_" stroke="#000F33" fill="#006895" id="img-02804c27-303">
+            <use xlink:href="#img-02804c27-304" x="20.03" y="126.65"/>
+          </g>
+        </g>
+      </g>
+      <g stroke-width="0.3" fill="#000000" fill-opacity="0.000" stroke-dasharray="4,1" id="img-02804c27-305">
+        <path fill="none" d="M20.03,126.65 L 38.08 113.89 74.18 101.13 132.85 88.37" class="geometry color_" stroke="#006895"/>
+        <path fill="none" d="M18.9,126.65 L 27.93 113.89 45.98 101.13 75.31 88.37 119.31 75.62" class="geometry color_" stroke="#0081A3"/>
+        <path fill="none" d="M17.77,126.65 L 24.54 113.89 35.82 101.13 55 88.37 85.46 75.62 130.59 62.86" class="geometry color_" stroke="#3D9AAE"/>
+        <path fill="none" d="M17.77,126.65 L 22.29 113.89 31.31 101.13 45.98 88.37 68.54 75.62 101.26 62.86" class="geometry color_" stroke="#65B0B9"/>
+        <path fill="none" d="M17.77,126.65 L 21.16 113.89 27.93 101.13 40.34 88.37 57.26 75.62 84.33 62.86 126.08 50.1" class="geometry color_" stroke="#88C4C4"/>
+        <path fill="none" d="M17.77,126.65 L 18.9 113.89 20.03 101.13 21.16 88.37 26.8 75.62 34.7 62.86 44.85 50.1 62.9 37.34 105.77 24.58" class="geometry color_" stroke="#95474A"/>
+        <path fill="none" d="M17.77,126.65 L 21.16 113.89 26.8 101.13 35.82 88.37 50.49 75.62 73.05 62.86 108.03 50.1" class="geometry color_" stroke="#A3CFC8"/>
+        <path fill="none" d="M17.77,126.65 L 18.9 113.89 20.03 101.13 23.41 88.37 27.93 75.62 34.7 62.86 47.11 50.1 65.16 37.34 111.41 24.58" class="geometry color_" stroke="#A96559"/>
+        <path fill="none" d="M17.77,126.65 L 20.03 113.89 25.67 101.13 33.57 88.37 45.98 75.62 65.16 62.86 94.49 50.1 143 37.34" class="geometry color_" stroke="#AFCDC3"/>
+        <path fill="none" d="M17.77,126.65 L 20.03 113.89 24.54 101.13 31.31 88.37 42.59 75.62 59.52 62.86 84.33 50.1 127.21 37.34" class="geometry color_" stroke="#B6CBC0"/>
+        <path fill="none" d="M17.77,126.65 L 18.9 113.89 20.03 101.13 23.41 88.37 29.05 75.62 36.95 62.86 48.23 50.1 68.54 37.34 117.05 24.58" class="geometry color_" stroke="#B9816B"/>
+        <path fill="none" d="M17.77,126.65 L 20.03 113.89 23.41 101.13 30.18 88.37 39.21 75.62 53.87 62.86 77.57 50.1 114.8 37.34" class="geometry color_" stroke="#BACBBC"/>
+        <path fill="none" d="M17.77,126.65 L 18.9 113.89 22.29 101.13 27.93 88.37 36.95 75.62 50.49 62.86 70.8 50.1 104.64 37.34" class="geometry color_" stroke="#BECAB9"/>
+        <path fill="none" d="M17.77,126.65 L 18.9 113.89 22.29 101.13 26.8 88.37 35.82 75.62 47.11 62.86 66.28 50.1 96.74 37.34" class="geometry color_" stroke="#C3C9B7"/>
+        <path fill="none" d="M17.77,126.65 L 18.9 113.89 20.03 101.13 23.41 88.37 29.05 75.62 38.08 62.86 50.49 50.1 71.93 37.34 123.82 24.58" class="geometry color_" stroke="#C69C80"/>
+        <path fill="none" d="M17.77,126.65 L 18.9 113.89 21.16 101.13 26.8 88.37 33.57 75.62 44.85 62.86 61.77 50.1 89.98 37.34" class="geometry color_" stroke="#C7C8B5"/>
+        <path fill="none" d="M17.77,126.65 L 18.9 113.89 21.16 101.13 25.67 88.37 32.44 75.62 42.59 62.86 58.39 50.1 84.33 37.34" class="geometry color_" stroke="#CDC6B0"/>
+        <path fill="none" d="M17.77,126.65 L 18.9 113.89 20.03 101.13 24.54 88.37 30.18 75.62 39.21 62.86 52.75 50.1 75.31 37.34 130.59 24.58" class="geometry color_" stroke="#D2B497"/>
+        <path fill="none" d="M17.77,126.65 L 18.9 113.89 21.16 101.13 24.54 88.37 31.31 75.62 40.34 62.86 55 50.1 79.82 37.34 138.49 24.58" class="geometry color_" stroke="#D5C4A9"/>
+      </g>
+    </g>
+    <g class="guide colorkey" id="img-02804c27-306">
+      <g font-size="2.82" font-family="Helvetica" fill="#4C404B" id="img-02804c27-307">
+        <text x="25.04" y="39.3" dy="0.35em">0.8</text>
+        <text x="25.04" y="34.83" dy="0.35em">1.0</text>
+        <text x="25.04" y="57.17" dy="0.35em">0.0</text>
+        <text x="25.04" y="43.76" dy="0.35em">0.6</text>
+        <text x="25.04" y="48.23" dy="0.35em">0.4</text>
+        <text x="25.04" y="52.7" dy="0.35em">0.2</text>
+      </g>
+      <g shape-rendering="crispEdges" stroke="#000000" stroke-opacity="0.000" id="img-02804c27-308">
+        <rect x="23.16" y="56.61" width="0.88" height="0.56" fill="#004D84"/>
+        <rect x="23.16" y="56.05" width="0.88" height="0.56" fill="#005B8D"/>
+        <rect x="23.16" y="55.5" width="0.88" height="0.56" fill="#006995"/>
+        <rect x="23.16" y="54.94" width="0.88" height="0.56" fill="#00769D"/>
+        <rect x="23.16" y="54.38" width="0.88" height="0.56" fill="#0083A3"/>
+        <rect x="23.16" y="53.82" width="0.88" height="0.56" fill="#278FA9"/>
+        <rect x="23.16" y="53.26" width="0.88" height="0.56" fill="#409BAF"/>
+        <rect x="23.16" y="52.7" width="0.88" height="0.56" fill="#55A7B5"/>
+        <rect x="23.16" y="52.14" width="0.88" height="0.56" fill="#69B2BA"/>
+        <rect x="23.16" y="51.58" width="0.88" height="0.56" fill="#7BBCC0"/>
+        <rect x="23.16" y="51.03" width="0.88" height="0.56" fill="#8DC6C5"/>
+        <rect x="23.16" y="50.47" width="0.88" height="0.56" fill="#9ED0CB"/>
+        <rect x="23.16" y="49.91" width="0.88" height="0.56" fill="#A5CFC7"/>
+        <rect x="23.16" y="49.35" width="0.88" height="0.56" fill="#ABCEC4"/>
+        <rect x="23.16" y="48.79" width="0.88" height="0.56" fill="#B1CCC2"/>
+        <rect x="23.16" y="48.23" width="0.88" height="0.56" fill="#B5CCC1"/>
+        <rect x="23.16" y="47.67" width="0.88" height="0.56" fill="#B7CBBF"/>
+        <rect x="23.16" y="47.12" width="0.88" height="0.56" fill="#B9CBBD"/>
+        <rect x="23.16" y="46.56" width="0.88" height="0.56" fill="#BBCBBB"/>
+        <rect x="23.16" y="46" width="0.88" height="0.56" fill="#BDCABA"/>
+        <rect x="23.16" y="45.44" width="0.88" height="0.56" fill="#BFCAB8"/>
+        <rect x="23.16" y="44.88" width="0.88" height="0.56" fill="#C2C9B7"/>
+        <rect x="23.16" y="44.32" width="0.88" height="0.56" fill="#C4C9B6"/>
+        <rect x="23.16" y="43.76" width="0.88" height="0.56" fill="#C6C8B5"/>
+        <rect x="23.16" y="43.21" width="0.88" height="0.56" fill="#C9C7B4"/>
+        <rect x="23.16" y="42.65" width="0.88" height="0.56" fill="#CCC7B2"/>
+        <rect x="23.16" y="42.09" width="0.88" height="0.56" fill="#CFC6AE"/>
+        <rect x="23.16" y="41.53" width="0.88" height="0.56" fill="#D4C5AA"/>
+        <rect x="23.16" y="40.97" width="0.88" height="0.56" fill="#D8C3A6"/>
+        <rect x="23.16" y="40.41" width="0.88" height="0.56" fill="#D3B79A"/>
+        <rect x="23.16" y="39.85" width="0.88" height="0.56" fill="#CDAB8E"/>
+        <rect x="23.16" y="39.3" width="0.88" height="0.56" fill="#C89E82"/>
+        <rect x="23.16" y="38.74" width="0.88" height="0.56" fill="#C19177"/>
+        <rect x="23.16" y="38.18" width="0.88" height="0.56" fill="#BA836C"/>
+        <rect x="23.16" y="37.62" width="0.88" height="0.56" fill="#B27563"/>
+        <rect x="23.16" y="37.06" width="0.88" height="0.56" fill="#AA665A"/>
+        <rect x="23.16" y="36.5" width="0.88" height="0.56" fill="#A05752"/>
+        <rect x="23.16" y="35.94" width="0.88" height="0.56" fill="#96484A"/>
+        <rect x="23.16" y="35.38" width="0.88" height="0.56" fill="#8B3844"/>
+        <rect x="23.16" y="34.83" width="0.88" height="0.56" fill="#7E273E"/>
+        <g stroke="#FFFFFF" stroke-width="0.2" id="img-02804c27-309">
+          <path fill="none" d="M23.16,39.3 L 24.04 39.3"/>
+          <path fill="none" d="M23.16,34.83 L 24.04 34.83"/>
+          <path fill="none" d="M23.16,57.17 L 24.04 57.17"/>
+          <path fill="none" d="M23.16,43.76 L 24.04 43.76"/>
+          <path fill="none" d="M23.16,48.23 L 24.04 48.23"/>
+          <path fill="none" d="M23.16,52.7 L 24.04 52.7"/>
+        </g>
+      </g>
+      <g fill="#000000" font-size="3" font-family="'PT Sans','Helvetica Neue','Helvetica',sans-serif" stroke="#000000" stroke-opacity="0.000" id="img-02804c27-310">
+        <text x="23.16" y="30.83">Con. Coef.</text>
+      </g>
+    </g>
+  </g>
+</g>
+  <g class="guide ylabels" font-size="4" font-family="Helvetica" fill="#6C606B" id="img-02804c27-311">
+    <text x="13.64" y="126.65" text-anchor="middle" transform="rotate(-90, 13.64, 126.65)" gadfly:scale="1.0" visibility="visible">1</text>
+    <text x="13.64" y="113.89" text-anchor="middle" transform="rotate(-90, 13.64, 113.89)" gadfly:scale="1.0" visibility="visible">2</text>
+    <text x="13.64" y="101.13" text-anchor="middle" transform="rotate(-90, 13.64, 101.13)" gadfly:scale="1.0" visibility="visible">3</text>
+    <text x="13.64" y="88.37" text-anchor="middle" transform="rotate(-90, 13.64, 88.37)" gadfly:scale="1.0" visibility="visible">4</text>
+    <text x="13.64" y="75.62" text-anchor="middle" transform="rotate(-90, 13.64, 75.62)" gadfly:scale="1.0" visibility="visible">5</text>
+    <text x="13.64" y="62.86" text-anchor="middle" transform="rotate(-90, 13.64, 62.86)" gadfly:scale="1.0" visibility="visible">6</text>
+    <text x="13.64" y="50.1" text-anchor="middle" transform="rotate(-90, 13.64, 50.1)" gadfly:scale="1.0" visibility="visible">7</text>
+    <text x="13.64" y="37.34" text-anchor="middle" transform="rotate(-90, 13.64, 37.34)" gadfly:scale="1.0" visibility="visible">8</text>
+    <text x="13.64" y="24.58" text-anchor="middle" transform="rotate(-90, 13.64, 24.58)" gadfly:scale="1.0" visibility="visible">9</text>
+    <text x="13.64" y="11.82" text-anchor="middle" transform="rotate(-90, 13.64, 11.82)" gadfly:scale="1.0" visibility="visible">10</text>
+  </g>
+  <g class="guide ylabels" font-size="4" font-family="Helvetica" fill="#6C606B" id="img-02804c27-312">
+    <text x="13.64" y="126.65" text-anchor="middle" transform="rotate(-90, 13.64, 126.65)">1</text>
+    <text x="13.64" y="113.89" text-anchor="middle" transform="rotate(-90, 13.64, 113.89)">2</text>
+    <text x="13.64" y="101.13" text-anchor="middle" transform="rotate(-90, 13.64, 101.13)">3</text>
+    <text x="13.64" y="88.37" text-anchor="middle" transform="rotate(-90, 13.64, 88.37)">4</text>
+    <text x="13.64" y="75.62" text-anchor="middle" transform="rotate(-90, 13.64, 75.62)">5</text>
+    <text x="13.64" y="62.86" text-anchor="middle" transform="rotate(-90, 13.64, 62.86)">6</text>
+    <text x="13.64" y="50.1" text-anchor="middle" transform="rotate(-90, 13.64, 50.1)">7</text>
+    <text x="13.64" y="37.34" text-anchor="middle" transform="rotate(-90, 13.64, 37.34)">8</text>
+    <text x="13.64" y="24.58" text-anchor="middle" transform="rotate(-90, 13.64, 24.58)">9</text>
+    <text x="13.64" y="11.82" text-anchor="middle" transform="rotate(-90, 13.64, 11.82)">10</text>
+  </g>
+  <g font-size="4" font-family="Helvetica" fill="#000000" stroke="#000000" stroke-opacity="0.000" id="img-02804c27-313">
+    <text x="8.41" y="67.24" text-anchor="middle" dy="0.35em" transform="rotate(-90, 8.41, 69.24)">Distance to source</text>
+  </g>
+  <g font-size="4" font-family="Helvetica" fill="#000000" stroke="#000000" stroke-opacity="0.000" id="img-02804c27-314">
+    <text x="79.82" y="5" text-anchor="middle" dy="0.6em">Distance effect on Antibiotic Diffusion</text>
+  </g>
+</g>
+<defs>
+  <clipPath id="img-02804c27-5">
+  <path d="M14.64,128.65 L 145 128.65 145 130.65 14.64 130.65" />
+</clipPath>
+  <clipPath id="img-02804c27-7">
+  <path d="M14.64,9.82 L 145 9.82 145 128.65 14.64 128.65" />
+</clipPath>
+  <g id="img-02804c27-16">
+    <circle cx="0" cy="0" r="0.78"/>
+  </g>
+  <g id="img-02804c27-18">
+    <circle cx="0" cy="0" r="0.78"/>
+  </g>
+  <g id="img-02804c27-20">
+    <circle cx="0" cy="0" r="0.78"/>
+  </g>
+  <g id="img-02804c27-22">
+    <circle cx="0" cy="0" r="0.78"/>
+  </g>
+  <g id="img-02804c27-24">
+    <circle cx="0" cy="0" r="0.78"/>
+  </g>
+  <g id="img-02804c27-26">
+    <circle cx="0" cy="0" r="0.78"/>
+  </g>
+  <g id="img-02804c27-28">
+    <circle cx="0" cy="0" r="0.78"/>
+  </g>
+  <g id="img-02804c27-30">
+    <circle cx="0" cy="0" r="0.78"/>
+  </g>
+  <g id="img-02804c27-32">
+    <circle cx="0" cy="0" r="0.78"/>
+  </g>
+  <g id="img-02804c27-34">
+    <circle cx="0" cy="0" r="0.78"/>
+  </g>
+  <g id="img-02804c27-36">
+    <circle cx="0" cy="0" r="0.78"/>
+  </g>
+  <g id="img-02804c27-38">
+    <circle cx="0" cy="0" r="0.78"/>
+  </g>
+  <g id="img-02804c27-40">
+    <circle cx="0" cy="0" r="0.78"/>
+  </g>
+  <g id="img-02804c27-42">
+    <circle cx="0" cy="0" r="0.78"/>
+  </g>
+  <g id="img-02804c27-44">
+    <circle cx="0" cy="0" r="0.78"/>
+  </g>
+  <g id="img-02804c27-46">
+    <circle cx="0" cy="0" r="0.78"/>
+  </g>
+  <g id="img-02804c27-48">
+    <circle cx="0" cy="0" r="0.78"/>
+  </g>
+  <g id="img-02804c27-50">
+    <circle cx="0" cy="0" r="0.78"/>
+  </g>
+  <g id="img-02804c27-52">
+    <circle cx="0" cy="0" r="0.78"/>
+  </g>
+  <g id="img-02804c27-54">
+    <circle cx="0" cy="0" r="0.78"/>
+  </g>
+  <g id="img-02804c27-56">
+    <circle cx="0" cy="0" r="0.78"/>
+  </g>
+  <g id="img-02804c27-58">
+    <circle cx="0" cy="0" r="0.78"/>
+  </g>
+  <g id="img-02804c27-60">
+    <circle cx="0" cy="0" r="0.78"/>
+  </g>
+  <g id="img-02804c27-62">
+    <circle cx="0" cy="0" r="0.78"/>
+  </g>
+  <g id="img-02804c27-64">
+    <circle cx="0" cy="0" r="0.78"/>
+  </g>
+  <g id="img-02804c27-66">
+    <circle cx="0" cy="0" r="0.78"/>
+  </g>
+  <g id="img-02804c27-68">
+    <circle cx="0" cy="0" r="0.78"/>
+  </g>
+  <g id="img-02804c27-70">
+    <circle cx="0" cy="0" r="0.78"/>
+  </g>
+  <g id="img-02804c27-72">
+    <circle cx="0" cy="0" r="0.78"/>
+  </g>
+  <g id="img-02804c27-74">
+    <circle cx="0" cy="0" r="0.78"/>
+  </g>
+  <g id="img-02804c27-76">
+    <circle cx="0" cy="0" r="0.78"/>
+  </g>
+  <g id="img-02804c27-78">
+    <circle cx="0" cy="0" r="0.78"/>
+  </g>
+  <g id="img-02804c27-80">
+    <circle cx="0" cy="0" r="0.78"/>
+  </g>
+  <g id="img-02804c27-82">
+    <circle cx="0" cy="0" r="0.78"/>
+  </g>
+  <g id="img-02804c27-84">
+    <circle cx="0" cy="0" r="0.78"/>
+  </g>
+  <g id="img-02804c27-86">
+    <circle cx="0" cy="0" r="0.78"/>
+  </g>
+  <g id="img-02804c27-88">
+    <circle cx="0" cy="0" r="0.78"/>
+  </g>
+  <g id="img-02804c27-90">
+    <circle cx="0" cy="0" r="0.78"/>
+  </g>
+  <g id="img-02804c27-92">
+    <circle cx="0" cy="0" r="0.78"/>
+  </g>
+  <g id="img-02804c27-94">
+    <circle cx="0" cy="0" r="0.78"/>
+  </g>
+  <g id="img-02804c27-96">
+    <circle cx="0" cy="0" r="0.78"/>
+  </g>
+  <g id="img-02804c27-98">
+    <circle cx="0" cy="0" r="0.78"/>
+  </g>
+  <g id="img-02804c27-100">
+    <circle cx="0" cy="0" r="0.78"/>
+  </g>
+  <g id="img-02804c27-102">
+    <circle cx="0" cy="0" r="0.78"/>
+  </g>
+  <g id="img-02804c27-104">
+    <circle cx="0" cy="0" r="0.78"/>
+  </g>
+  <g id="img-02804c27-106">
+    <circle cx="0" cy="0" r="0.78"/>
+  </g>
+  <g id="img-02804c27-108">
+    <circle cx="0" cy="0" r="0.78"/>
+  </g>
+  <g id="img-02804c27-110">
+    <circle cx="0" cy="0" r="0.78"/>
+  </g>
+  <g id="img-02804c27-112">
+    <circle cx="0" cy="0" r="0.78"/>
+  </g>
+  <g id="img-02804c27-114">
+    <circle cx="0" cy="0" r="0.78"/>
+  </g>
+  <g id="img-02804c27-116">
+    <circle cx="0" cy="0" r="0.78"/>
+  </g>
+  <g id="img-02804c27-118">
+    <circle cx="0" cy="0" r="0.78"/>
+  </g>
+  <g id="img-02804c27-120">
+    <circle cx="0" cy="0" r="0.78"/>
+  </g>
+  <g id="img-02804c27-122">
+    <circle cx="0" cy="0" r="0.78"/>
+  </g>
+  <g id="img-02804c27-124">
+    <circle cx="0" cy="0" r="0.78"/>
+  </g>
+  <g id="img-02804c27-126">
+    <circle cx="0" cy="0" r="0.78"/>
+  </g>
+  <g id="img-02804c27-128">
+    <circle cx="0" cy="0" r="0.78"/>
+  </g>
+  <g id="img-02804c27-130">
+    <circle cx="0" cy="0" r="0.78"/>
+  </g>
+  <g id="img-02804c27-132">
+    <circle cx="0" cy="0" r="0.78"/>
+  </g>
+  <g id="img-02804c27-134">
+    <circle cx="0" cy="0" r="0.78"/>
+  </g>
+  <g id="img-02804c27-136">
+    <circle cx="0" cy="0" r="0.78"/>
+  </g>
+  <g id="img-02804c27-138">
+    <circle cx="0" cy="0" r="0.78"/>
+  </g>
+  <g id="img-02804c27-140">
+    <circle cx="0" cy="0" r="0.78"/>
+  </g>
+  <g id="img-02804c27-142">
+    <circle cx="0" cy="0" r="0.78"/>
+  </g>
+  <g id="img-02804c27-144">
+    <circle cx="0" cy="0" r="0.78"/>
+  </g>
+  <g id="img-02804c27-146">
+    <circle cx="0" cy="0" r="0.78"/>
+  </g>
+  <g id="img-02804c27-148">
+    <circle cx="0" cy="0" r="0.78"/>
+  </g>
+  <g id="img-02804c27-150">
+    <circle cx="0" cy="0" r="0.78"/>
+  </g>
+  <g id="img-02804c27-152">
+    <circle cx="0" cy="0" r="0.78"/>
+  </g>
+  <g id="img-02804c27-154">
+    <circle cx="0" cy="0" r="0.78"/>
+  </g>
+  <g id="img-02804c27-156">
+    <circle cx="0" cy="0" r="0.78"/>
+  </g>
+  <g id="img-02804c27-158">
+    <circle cx="0" cy="0" r="0.78"/>
+  </g>
+  <g id="img-02804c27-160">
+    <circle cx="0" cy="0" r="0.78"/>
+  </g>
+  <g id="img-02804c27-162">
+    <circle cx="0" cy="0" r="0.78"/>
+  </g>
+  <g id="img-02804c27-164">
+    <circle cx="0" cy="0" r="0.78"/>
+  </g>
+  <g id="img-02804c27-166">
+    <circle cx="0" cy="0" r="0.78"/>
+  </g>
+  <g id="img-02804c27-168">
+    <circle cx="0" cy="0" r="0.78"/>
+  </g>
+  <g id="img-02804c27-170">
+    <circle cx="0" cy="0" r="0.78"/>
+  </g>
+  <g id="img-02804c27-172">
+    <circle cx="0" cy="0" r="0.78"/>
+  </g>
+  <g id="img-02804c27-174">
+    <circle cx="0" cy="0" r="0.78"/>
+  </g>
+  <g id="img-02804c27-176">
+    <circle cx="0" cy="0" r="0.78"/>
+  </g>
+  <g id="img-02804c27-178">
+    <circle cx="0" cy="0" r="0.78"/>
+  </g>
+  <g id="img-02804c27-180">
+    <circle cx="0" cy="0" r="0.78"/>
+  </g>
+  <g id="img-02804c27-182">
+    <circle cx="0" cy="0" r="0.78"/>
+  </g>
+  <g id="img-02804c27-184">
+    <circle cx="0" cy="0" r="0.78"/>
+  </g>
+  <g id="img-02804c27-186">
+    <circle cx="0" cy="0" r="0.78"/>
+  </g>
+  <g id="img-02804c27-188">
+    <circle cx="0" cy="0" r="0.78"/>
+  </g>
+  <g id="img-02804c27-190">
+    <circle cx="0" cy="0" r="0.78"/>
+  </g>
+  <g id="img-02804c27-192">
+    <circle cx="0" cy="0" r="0.78"/>
+  </g>
+  <g id="img-02804c27-194">
+    <circle cx="0" cy="0" r="0.78"/>
+  </g>
+  <g id="img-02804c27-196">
+    <circle cx="0" cy="0" r="0.78"/>
+  </g>
+  <g id="img-02804c27-198">
+    <circle cx="0" cy="0" r="0.78"/>
+  </g>
+  <g id="img-02804c27-200">
+    <circle cx="0" cy="0" r="0.78"/>
+  </g>
+  <g id="img-02804c27-202">
+    <circle cx="0" cy="0" r="0.78"/>
+  </g>
+  <g id="img-02804c27-204">
+    <circle cx="0" cy="0" r="0.78"/>
+  </g>
+  <g id="img-02804c27-206">
+    <circle cx="0" cy="0" r="0.78"/>
+  </g>
+  <g id="img-02804c27-208">
+    <circle cx="0" cy="0" r="0.78"/>
+  </g>
+  <g id="img-02804c27-210">
+    <circle cx="0" cy="0" r="0.78"/>
+  </g>
+  <g id="img-02804c27-212">
+    <circle cx="0" cy="0" r="0.78"/>
+  </g>
+  <g id="img-02804c27-214">
+    <circle cx="0" cy="0" r="0.78"/>
+  </g>
+  <g id="img-02804c27-216">
+    <circle cx="0" cy="0" r="0.78"/>
+  </g>
+  <g id="img-02804c27-218">
+    <circle cx="0" cy="0" r="0.78"/>
+  </g>
+  <g id="img-02804c27-220">
+    <circle cx="0" cy="0" r="0.78"/>
+  </g>
+  <g id="img-02804c27-222">
+    <circle cx="0" cy="0" r="0.78"/>
+  </g>
+  <g id="img-02804c27-224">
+    <circle cx="0" cy="0" r="0.78"/>
+  </g>
+  <g id="img-02804c27-226">
+    <circle cx="0" cy="0" r="0.78"/>
+  </g>
+  <g id="img-02804c27-228">
+    <circle cx="0" cy="0" r="0.78"/>
+  </g>
+  <g id="img-02804c27-230">
+    <circle cx="0" cy="0" r="0.78"/>
+  </g>
+  <g id="img-02804c27-232">
+    <circle cx="0" cy="0" r="0.78"/>
+  </g>
+  <g id="img-02804c27-234">
+    <circle cx="0" cy="0" r="0.78"/>
+  </g>
+  <g id="img-02804c27-236">
+    <circle cx="0" cy="0" r="0.78"/>
+  </g>
+  <g id="img-02804c27-238">
+    <circle cx="0" cy="0" r="0.78"/>
+  </g>
+  <g id="img-02804c27-240">
+    <circle cx="0" cy="0" r="0.78"/>
+  </g>
+  <g id="img-02804c27-242">
+    <circle cx="0" cy="0" r="0.78"/>
+  </g>
+  <g id="img-02804c27-244">
+    <circle cx="0" cy="0" r="0.78"/>
+  </g>
+  <g id="img-02804c27-246">
+    <circle cx="0" cy="0" r="0.78"/>
+  </g>
+  <g id="img-02804c27-248">
+    <circle cx="0" cy="0" r="0.78"/>
+  </g>
+  <g id="img-02804c27-250">
+    <circle cx="0" cy="0" r="0.78"/>
+  </g>
+  <g id="img-02804c27-252">
+    <circle cx="0" cy="0" r="0.78"/>
+  </g>
+  <g id="img-02804c27-254">
+    <circle cx="0" cy="0" r="0.78"/>
+  </g>
+  <g id="img-02804c27-256">
+    <circle cx="0" cy="0" r="0.78"/>
+  </g>
+  <g id="img-02804c27-258">
+    <circle cx="0" cy="0" r="0.78"/>
+  </g>
+  <g id="img-02804c27-260">
+    <circle cx="0" cy="0" r="0.78"/>
+  </g>
+  <g id="img-02804c27-262">
+    <circle cx="0" cy="0" r="0.78"/>
+  </g>
+  <g id="img-02804c27-264">
+    <circle cx="0" cy="0" r="0.78"/>
+  </g>
+  <g id="img-02804c27-266">
+    <circle cx="0" cy="0" r="0.78"/>
+  </g>
+  <g id="img-02804c27-268">
+    <circle cx="0" cy="0" r="0.78"/>
+  </g>
+  <g id="img-02804c27-270">
+    <circle cx="0" cy="0" r="0.78"/>
+  </g>
+  <g id="img-02804c27-272">
+    <circle cx="0" cy="0" r="0.78"/>
+  </g>
+  <g id="img-02804c27-274">
+    <circle cx="0" cy="0" r="0.78"/>
+  </g>
+  <g id="img-02804c27-276">
+    <circle cx="0" cy="0" r="0.78"/>
+  </g>
+  <g id="img-02804c27-278">
+    <circle cx="0" cy="0" r="0.78"/>
+  </g>
+  <g id="img-02804c27-280">
+    <circle cx="0" cy="0" r="0.78"/>
+  </g>
+  <g id="img-02804c27-282">
+    <circle cx="0" cy="0" r="0.78"/>
+  </g>
+  <g id="img-02804c27-284">
+    <circle cx="0" cy="0" r="0.78"/>
+  </g>
+  <g id="img-02804c27-286">
+    <circle cx="0" cy="0" r="0.78"/>
+  </g>
+  <g id="img-02804c27-288">
+    <circle cx="0" cy="0" r="0.78"/>
+  </g>
+  <g id="img-02804c27-290">
+    <circle cx="0" cy="0" r="0.78"/>
+  </g>
+  <g id="img-02804c27-292">
+    <circle cx="0" cy="0" r="0.78"/>
+  </g>
+  <g id="img-02804c27-294">
+    <circle cx="0" cy="0" r="0.78"/>
+  </g>
+  <g id="img-02804c27-296">
+    <circle cx="0" cy="0" r="0.78"/>
+  </g>
+  <g id="img-02804c27-298">
+    <circle cx="0" cy="0" r="0.78"/>
+  </g>
+  <g id="img-02804c27-300">
+    <circle cx="0" cy="0" r="0.78"/>
+  </g>
+  <g id="img-02804c27-302">
+    <circle cx="0" cy="0" r="0.78"/>
+  </g>
+  <g id="img-02804c27-304">
+    <circle cx="0" cy="0" r="0.78"/>
+  </g>
+</defs>
+</svg>

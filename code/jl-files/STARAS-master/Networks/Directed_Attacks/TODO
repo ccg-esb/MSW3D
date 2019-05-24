@@ -1,0 +1,2 @@
+#erase last line of the outfile when running simulations. It prints "nothing".
+#TODO: Fix it

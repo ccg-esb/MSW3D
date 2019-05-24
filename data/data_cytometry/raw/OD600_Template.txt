@@ -1,0 +1,13 @@
+
+	1 	2 	3 	4 	5 	6 	7 	8 	9 	10 	11 	12
+A 	gb1 	gb2 	gb3 	gb4 	gb5 	empty 	empty 	gb1_1:10 	gb2_1:10 	gb3_1:10 	gb4_1:10 	gb5_1:10 	
+B 	wy1 	wy2 	wy3 	wy4 	wy5 	empty 	empty 	wy1_1:10 	wy2_1:10 	wy3_1:10 	wy4_1:10 	wy5_1:10
+C 	501 	502 	503 	504 	505 	empty 	empty 	501_1:10 	502:1:10 	503_1:10 	504_1:10 	505_1:10
+D 	s11 	s12 	s13 	s14 	s15 	empty 	empty 	s11_1:10 	s12_1:10 	s13_1:10 	s14_1:10 	s15_1:10
+E 	s31 	s32 	s33 	s34 	s35 	empty 	empty 	s31_1:10 	s32_1:10 	s33_1:10 	s34_1:10 	s35_1:10
+F 	s51 	s52 	s53 	s54 	s55 	empty 	empty 	s51_1:10 	s53_1:10 	s53_1:10 	s54_1:10 	s55_1:10
+G 	mg1 	mg2 	mg3 	mg4 	mg5 	empty 	empty 	mg1_1:10 	mg3_1:10 	mg3_1:10 	mg4_1:10 	mg5_1:10
+H 	empty 	empty 	empty 	empty 	empty 	empty 	empty 	empty 	empty 	empty 	empty 	empty 	empty 	empty 
+
+
+*the samples in the cytometer were taken with the first measure (without the dilution)

@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     version="1.2"
+     width="120mm" height="100mm" viewBox="0 0 120 100"
+     stroke="none"
+     fill="#000000"
+     stroke-width="0.3"
+     font-size="3.88"
+>
+<g stroke="#000000" stroke-width="0.1" id="img-71b00995-1">
+  <rect x="17.14" y="27.62" width="17.14" height="1.9" fill="#FF9D5F"/>
+  <rect x="34.29" y="27.62" width="17.14" height="1.9" fill="#FFFBF6"/>
+  <rect x="51.43" y="27.62" width="17.14" height="1.9" fill="#FFFBF6"/>
+  <rect x="68.57" y="27.62" width="17.14" height="1.9" fill="#FFFBF6"/>
+  <rect x="85.71" y="27.62" width="17.14" height="1.9" fill="#FFFBF6"/>
+  <rect x="17.14" y="40.95" width="17.14" height="3.81" fill="#A3350D"/>
+  <rect x="34.29" y="40.95" width="17.14" height="3.81" fill="#FD661A"/>
+  <rect x="51.43" y="40.95" width="17.14" height="3.81" fill="#FFB987"/>
+  <rect x="68.57" y="40.95" width="17.14" height="3.81" fill="#FFDFC3"/>
+  <rect x="85.71" y="40.95" width="17.14" height="3.81" fill="#FFF0E0"/>
+  <rect x="17.14" y="54.29" width="17.14" height="5.71" fill="#8B2B0B"/>
+  <rect x="34.29" y="54.29" width="17.14" height="5.71" fill="#C6440E"/>
+  <rect x="51.43" y="54.29" width="17.14" height="5.71" fill="#FE6E24"/>
+  <rect x="68.57" y="54.29" width="17.14" height="5.71" fill="#FFA86E"/>
+  <rect x="85.71" y="54.29" width="17.14" height="5.71" fill="#FFC498"/>
+  <rect x="17.14" y="67.62" width="17.14" height="7.62" fill="#812709"/>
+  <rect x="34.29" y="67.62" width="17.14" height="7.62" fill="#A7360D"/>
+  <rect x="51.43" y="67.62" width="17.14" height="7.62" fill="#D64B0D"/>
+  <rect x="68.57" y="67.62" width="17.14" height="7.62" fill="#FD661A"/>
+  <rect x="85.71" y="67.62" width="17.14" height="7.62" fill="#FF843F"/>
+  <rect x="17.14" y="80.95" width="17.14" height="9.52" fill="#782308"/>
+  <rect x="34.29" y="80.95" width="17.14" height="9.52" fill="#902D0B"/>
+  <rect x="51.43" y="80.95" width="17.14" height="9.52" fill="#B03A0D"/>
+  <rect x="68.57" y="80.95" width="17.14" height="9.52" fill="#CE470E"/>
+  <rect x="85.71" y="80.95" width="17.14" height="9.52" fill="#E2500D"/>
+</g>
+<g stroke="#000000" stroke-width="0.1" fill="#FFFFFF" id="img-71b00995-2">
+  <use xlink:href="#img-71b00995-3" x="17.14" y="14.29"/>
+  <use xlink:href="#img-71b00995-3" x="34.29" y="14.29"/>
+  <use xlink:href="#img-71b00995-3" x="51.43" y="14.29"/>
+  <use xlink:href="#img-71b00995-3" x="68.57" y="14.29"/>
+  <use xlink:href="#img-71b00995-3" x="85.71" y="14.29"/>
+  <use xlink:href="#img-71b00995-3" x="102.86" y="14.29"/>
+  <use xlink:href="#img-71b00995-3" x="17.14" y="28.57"/>
+  <use xlink:href="#img-71b00995-3" x="34.29" y="28.57"/>
+  <use xlink:href="#img-71b00995-3" x="51.43" y="28.57"/>
+  <use xlink:href="#img-71b00995-3" x="68.57" y="28.57"/>
+  <use xlink:href="#img-71b00995-3" x="85.71" y="28.57"/>
+  <use xlink:href="#img-71b00995-3" x="102.86" y="28.57"/>
+  <use xlink:href="#img-71b00995-3" x="17.14" y="42.86"/>
+  <use xlink:href="#img-71b00995-3" x="34.29" y="42.86"/>
+  <use xlink:href="#img-71b00995-3" x="51.43" y="42.86"/>
+  <use xlink:href="#img-71b00995-3" x="68.57" y="42.86"/>
+  <use xlink:href="#img-71b00995-3" x="85.71" y="42.86"/>
+  <use xlink:href="#img-71b00995-3" x="102.86" y="42.86"/>
+  <use xlink:href="#img-71b00995-3" x="17.14" y="57.14"/>
+  <use xlink:href="#img-71b00995-3" x="34.29" y="57.14"/>
+  <use xlink:href="#img-71b00995-3" x="51.43" y="57.14"/>
+  <use xlink:href="#img-71b00995-3" x="68.57" y="57.14"/>
+  <use xlink:href="#img-71b00995-3" x="85.71" y="57.14"/>
+  <use xlink:href="#img-71b00995-3" x="102.86" y="57.14"/>
+  <use xlink:href="#img-71b00995-3" x="17.14" y="71.43"/>
+  <use xlink:href="#img-71b00995-3" x="34.29" y="71.43"/>
+  <use xlink:href="#img-71b00995-3" x="51.43" y="71.43"/>
+  <use xlink:href="#img-71b00995-3" x="68.57" y="71.43"/>
+  <use xlink:href="#img-71b00995-3" x="85.71" y="71.43"/>
+  <use xlink:href="#img-71b00995-3" x="102.86" y="71.43"/>
+  <use xlink:href="#img-71b00995-3" x="17.14" y="85.71"/>
+  <use xlink:href="#img-71b00995-3" x="34.29" y="85.71"/>
+  <use xlink:href="#img-71b00995-3" x="51.43" y="85.71"/>
+  <use xlink:href="#img-71b00995-3" x="68.57" y="85.71"/>
+  <use xlink:href="#img-71b00995-3" x="85.71" y="85.71"/>
+  <use xlink:href="#img-71b00995-3" x="102.86" y="85.71"/>
+</g>
+<g stroke="#808080" stroke-width="0.08" id="img-71b00995-4">
+  <circle cx="17.14" cy="14.29" r="0" fill="#610102"/>
+  <circle cx="34.29" cy="14.29" r="5.71" fill="#0E3567"/>
+  <circle cx="51.43" cy="14.29" r="5.71" fill="#0E3567"/>
+  <circle cx="68.57" cy="14.29" r="5.71" fill="#0E3567"/>
+  <circle cx="85.71" cy="14.29" r="5.71" fill="#0E3567"/>
+  <circle cx="102.86" cy="14.29" r="5.71" fill="#0E3567"/>
+  <circle cx="17.14" cy="28.57" r="0.06" fill="#9D1A16"/>
+  <circle cx="34.29" cy="28.57" r="0.52" fill="#FFB9AA"/>
+  <circle cx="51.43" cy="28.57" r="2.16" fill="#8EC5EF"/>
+  <circle cx="68.57" cy="28.57" r="4.54" fill="#3573B8"/>
+  <circle cx="85.71" cy="28.57" r="5.15" fill="#1E508E"/>
+  <circle cx="102.86" cy="28.57" r="5.46" fill="#143E74"/>
+  <circle cx="17.14" cy="42.86" r="0.15" fill="#D6463A"/>
+  <circle cx="34.29" cy="42.86" r="0.54" fill="#FFC0B2"/>
+  <circle cx="51.43" cy="42.86" r="1.5" fill="#BCE0F8"/>
+  <circle cx="68.57" cy="42.86" r="3.05" fill="#5EA1DD"/>
+  <circle cx="85.71" cy="42.86" r="4.53" fill="#3573B8"/>
+  <circle cx="102.86" cy="42.86" r="4.77" fill="#24599A"/>
+  <circle cx="17.14" cy="57.14" r="0.24" fill="#F77362"/>
+  <circle cx="34.29" cy="57.14" r="0.63" fill="#FFCCC0"/>
+  <circle cx="51.43" cy="57.14" r="1.36" fill="#CBE8FA"/>
+  <circle cx="68.57" cy="57.14" r="2.44" fill="#7EBAEA"/>
+  <circle cx="85.71" cy="57.14" r="3.58" fill="#4F92D4"/>
+  <circle cx="102.86" cy="57.14" r="4.32" fill="#3B7BC0"/>
+  <circle cx="17.14" cy="71.43" r="0.34" fill="#FF9583"/>
+  <circle cx="34.29" cy="71.43" r="0.71" fill="#FFD8CE"/>
+  <circle cx="51.43" cy="71.43" r="1.32" fill="#CBE8FA"/>
+  <circle cx="68.57" cy="71.43" r="2.14" fill="#8EC5EF"/>
+  <circle cx="85.71" cy="71.43" r="2.96" fill="#66A7E1"/>
+  <circle cx="102.86" cy="71.43" r="3.49" fill="#4F92D4"/>
+  <circle cx="17.14" cy="85.71" r="0.42" fill="#FFAC9B"/>
+  <circle cx="34.29" cy="85.71" r="0.78" fill="#FFE3DB"/>
+  <circle cx="51.43" cy="85.71" r="1.31" fill="#D2EBFA"/>
+  <circle cx="68.57" cy="85.71" r="1.96" fill="#9ECFF2"/>
+  <circle cx="85.71" cy="85.71" r="2.58" fill="#76B4E8"/>
+  <circle cx="102.86" cy="85.71" r="2.96" fill="#66A7E1"/>
+</g>
+<defs>
+  <g id="img-71b00995-3">
+    <circle cx="0" cy="0" r="5.71"/>
+  </g>
+</defs>
+</svg>
