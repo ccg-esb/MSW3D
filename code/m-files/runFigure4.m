@@ -8,7 +8,7 @@ addpath_recurse('lib/');
 
 %% Load data
 
-dirData='../data/data_cytometry/';
+dirData='../../data/data_cytometry/';
 fileName='flow_cytometry.txt';
 data=tdfread([dirData,fileName]);
 samples=cellstr(data.sample);
@@ -91,7 +91,7 @@ plot(0:N-1, all_relFreqs(4,:),'o','LineWidth',1,'Color',YFP(6,:),'MarkerFaceColo
 
 
 xlabel('Distance from drug source','FontSize',24)
-ylabel('Relative frequency  (Wyl/Gbc)','FontSize',24)
+ylabel('Relative frequency  (Gby/Wcl)','FontSize',24)
 axis([-.02, N-.4 0 1.4])
 set(gca,'FontSize',20);
 
@@ -100,7 +100,7 @@ hTitle = get(hLegend,'title');
 set(hTitle, 'String',['Degree of',newline,'connectivity:'],  'FontSize',18);
 legend boxoff
 
-export_fig '../figures/src/figure4_position_relFreq.pdf'
+export_fig '../../figures/src/figure4_position_relFreq.pdf'
 
 %%
 

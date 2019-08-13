@@ -14,7 +14,7 @@ MSC=.72; %Computed from single-node experiment
 T=24;  % Duration of the experiment
 
 N=11;   % Number of microenvironments
-ns=101;  % Number of connectivities
+ns=11;  % Number of connectivities
 
 Amax=100;  %Maximum antibiotic concentration in drug gradient
 Rmax=1;    %Initial resource concentration
@@ -94,13 +94,13 @@ for s=1:ns
 end
 plot([0.25 0.25],[0.5 ns+.5],'k-');
 
-%export_fig('../figures/src/figure3_relFitness_sigma_position.pdf')
+export_fig(['../../figures/src/figure3_relFitness_sigma_position_T',num2str(T),'.pdf'])
 
 
 
 
 %% Total density per degree of connectivity
-
+%{
 sigma_sumODT=zeros(ns,1);
 sigma_freqBr=zeros(ns,1);
 sigma_freqBs=zeros(ns,1);
@@ -232,3 +232,4 @@ xlabel('Distance from drug source','FontSize',30);
 ylabel('Time spent inside MSW','FontSize',30);
 
 export_fig('../figures/src/figure3_position_MSW.pdf')
+%}

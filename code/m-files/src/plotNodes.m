@@ -19,7 +19,6 @@ function phis=plotNodes(all_nodes, cc)
         end
     end
 
-    maxDensity
     phis=zeros(ns, length(all_nodes{1}));
 
     for s=1:ns
